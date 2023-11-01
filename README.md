@@ -4,7 +4,7 @@
 # Team NM Id- NM2023TMID01034
 # Salesforce Project for Naan Mudhalvan
 # Demo Link
-# https://drive.google.com/file/d/1LrEa7_qMCPwLisfy3UI2H2Ra9IfFHIo-/view?usp=drive_link
+# https://drive.google.com/file/d/1LrEa7_qMCPwLisfy3UI2H2Ra9IfFHIo-/view?usp=sharing
 # Team Leader - NURSELIN ASHIK C
 # NM Id -  170177D81C868AE80A4425AF1D4E0ED5
 # Trailhead url: https://www.salesforce.com/trailblazer/nurselinashik
